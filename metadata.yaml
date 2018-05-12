@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8659
     wikipedia: http://en.wikipedia.org/wiki/William_Henry_Giles_Kingston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24547#In-the-Wilds-of-FloridaA-Tale-of-Warfare-and-Hunting
 gutenberg_issued: '2008-02-08'
 gutenberg_type: Text
 identifiers:
